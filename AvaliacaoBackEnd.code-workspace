@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "produtos-ms"
+    },
+    {
+      "path": "..\\..\\Spring\\microservicos\\microsservicos\\eureka-server"
+    },
+    {
+      "path": "..\\..\\Spring\\microservicos\\microsservicos\\zuul-server"
+    },
+    {
+      "path": "vendas-ms"
+    }
+  ]
+}
